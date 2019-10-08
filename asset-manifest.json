@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/JonnyMarx98/React-TodoList/static/css/main.a1214ac9.chunk.css",
+    "main.js": "/JonnyMarx98/React-TodoList/static/js/main.8ab087b1.chunk.js",
+    "main.js.map": "/JonnyMarx98/React-TodoList/static/js/main.8ab087b1.chunk.js.map",
+    "runtime-main.js": "/JonnyMarx98/React-TodoList/static/js/runtime-main.bf2c56d5.js",
+    "runtime-main.js.map": "/JonnyMarx98/React-TodoList/static/js/runtime-main.bf2c56d5.js.map",
+    "static/js/2.f7d62112.chunk.js": "/JonnyMarx98/React-TodoList/static/js/2.f7d62112.chunk.js",
+    "static/js/2.f7d62112.chunk.js.map": "/JonnyMarx98/React-TodoList/static/js/2.f7d62112.chunk.js.map",
+    "index.html": "/JonnyMarx98/React-TodoList/index.html",
+    "precache-manifest.27e0b83d66d90b21e5b206c77d91be69.js": "/JonnyMarx98/React-TodoList/precache-manifest.27e0b83d66d90b21e5b206c77d91be69.js",
+    "service-worker.js": "/JonnyMarx98/React-TodoList/service-worker.js",
+    "static/css/main.a1214ac9.chunk.css.map": "/JonnyMarx98/React-TodoList/static/css/main.a1214ac9.chunk.css.map",
+    "static/media/logo.svg": "/JonnyMarx98/React-TodoList/static/media/logo.25bf045c.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bf2c56d5.js",
+    "static/js/2.f7d62112.chunk.js",
+    "static/css/main.a1214ac9.chunk.css",
+    "static/js/main.8ab087b1.chunk.js"
+  ]
+}
